@@ -1,2 +1,2 @@
-# prueba_borrar
- esto es una prueba
+## prueba_borrar
+ esto es una **prueba
